@@ -1,4 +1,4 @@
-- 👋 Olá, I’m @Mpr2010
+- 👋 Olá, eu sou @Mpr2010
 - 👀 Estou interessada em: Explorar as últimas tendências em tecnologia, codificação e desenvolvimento web.
 - 🌱 Atualmente estou aprendendo: Aprimorando meu cnhecimento em frontend e me mantendo atualizada sobre linguagens mais recentes.
 - 💞️ Pretendo colaborar em: Projetos interessantes e que agreguem conhecimento
